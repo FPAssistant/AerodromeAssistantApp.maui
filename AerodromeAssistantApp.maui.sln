@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AerodromeAssistantApp", "AerodromeAssistantApp\AerodromeAssistantApp.csproj", "{5E5362A5-9318-4E28-A945-A3E8FC2530AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E5362A5-9318-4E28-A945-A3E8FC2530AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5362A5-9318-4E28-A945-A3E8FC2530AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5362A5-9318-4E28-A945-A3E8FC2530AE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5E5362A5-9318-4E28-A945-A3E8FC2530AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5362A5-9318-4E28-A945-A3E8FC2530AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5362A5-9318-4E28-A945-A3E8FC2530AE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FABCAE11-7647-494C-87BC-D33B4B71CD1A}
+	EndGlobalSection
+EndGlobal
